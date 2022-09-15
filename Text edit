@@ -1,0 +1,30 @@
+//COLLOR ITEM TEXT
+//
+format.black
+format.darkBlue
+format.darkGreen
+format.darkAqua
+format.darkRed
+format.darkPurple
+format.gold
+format.gray
+format.darkGray
+format.blue
+format.green
+format.aqua
+format.red
+format.lightPurple
+format.yellow
+format.white
+
+//TYPE TEXT
+//
+format.obfuscated
+format.bold
+format.strikethrough
+format.underline
+format.italic
+
+//RENAME ITEM
+//
+<input item>.displayName = "NEW NAME ITEM";

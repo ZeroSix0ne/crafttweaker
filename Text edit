@@ -31,3 +31,6 @@ format.italic
 
 //ADD TOOLTIP 
 <input item>.addTooltip("TEXT");
+
+//ADD COLOR TOOLTIP
+<Input item>.addTooltip(format.COLOR("TEXT"));

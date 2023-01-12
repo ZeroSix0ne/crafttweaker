@@ -4,7 +4,7 @@
 //Remove recipe
 mods.avaritia.Compressor.remove(<output item>);
 //add recipe
-mods.avaritia.Compressor.add(<Output>, 000  //<-- this part is responsible for the input number of items//, <input>);
+mods.avaritia.Compressor.add(<Output>, 000  /*<-- this part is responsible for the input number of items*/, <input>);
 
 
 

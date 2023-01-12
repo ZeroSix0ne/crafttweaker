@@ -28,3 +28,6 @@ format.italic
 //RENAME ITEM
 //
 <input item>.displayName = "NEW NAME ITEM";
+
+//ADD TOOLTIP 
+<input item>.addTooltip("TEXT");
